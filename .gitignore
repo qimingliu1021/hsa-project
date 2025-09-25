@@ -1,0 +1,18 @@
+# Ignore typical heavy folders
+run/
+output/
+data/
+__pycache__/
+node_modules/
+.venv/
+*.csv
+*.pkl
+*.pt
+*.mp4
+.DS_Store
+.env
+.env.local
+.next
+.next/
+.next/cache/
+.next/cache/
